@@ -12,5 +12,3 @@ const elementoMaiorValor = document.getElementById('maior-valor');
 elementoMaiorValor.innerHTML = maiorValor;
 
 const numeroSecreto = gerarNumeroAleatorio();
-
-console.log(numeroSecreto);
